@@ -1,0 +1,27 @@
+#cnt {
+    text-align: center;
+}
+.container {
+    width: 1000px;
+    height: 400px;            
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 250px;
+}
+#left {
+    float: left;
+    width: 333px;
+}
+#center {
+   float: left;
+    width: 334px;
+}
+#right {
+    float: right;
+    width: 333px;
+}
+
+* {
+    background-color: lightblue;
+}
